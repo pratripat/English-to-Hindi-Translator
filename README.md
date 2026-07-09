@@ -1,4 +1,4 @@
-English → Hindi Neural Machine Translation using Transformers
+# English → Hindi Neural Machine Translation using Transformers
 
 A complete implementation of an Encoder-Decoder Transformer for English-to-Hindi Neural Machine Translation built entirely from scratch in PyTorch.
 
